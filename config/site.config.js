@@ -59,6 +59,10 @@ module.exports = {
       name: 'Bilibili',
       link: 'https://space.bilibili.com/432594132?spm_id_from=333.1007.0.0',
     },
+    {
+      name: '文件传输',
+      link: 'https://tally.so/r/3joxo9',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
