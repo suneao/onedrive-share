@@ -55,6 +55,10 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/suneao/onedrive-share',
     },
+    {
+      name: 'Bilibili',
+      link: 'https://space.bilibili.com/432594132?spm_id_from=333.1007.0.0',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
