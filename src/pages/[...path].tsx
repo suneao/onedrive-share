@@ -28,12 +28,12 @@ export default function Folders() {
           <FileListing query={query} />
         </div>
         <script src="https://utteranc.es/client.js"
-        repo="suneao/onedrive-share"
-        issue-term="url"
-        label="Comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
+          repo="suneao/onedrive-share"
+          issue-term="url"
+          label="Comment"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
         </script>
       </main>
 
